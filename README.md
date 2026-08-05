@@ -4,6 +4,16 @@ A computer vision-based presentation system that allows you to control slides us
 
 ---
 
+## 🎥 Demo
+
+👉 Watch the project in action:
+
+https://github.com/user-attachments/assets/7582a4ef-aaa9-4549-9f77-95e90f722f32
+
+
+
+---
+
 ## 🚀 Features
 
 * 👉 Navigate slides using hand gestures
